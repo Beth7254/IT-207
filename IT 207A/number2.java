@@ -7,7 +7,7 @@ public class number2 {
         int max = myArray[0];
         
         for (int i = 1; i < 10; i++) {
-            if (myArray[i] > max) {
+            if (myArray[i] > max) { 
                 max = myArray[i];
             }
         }
